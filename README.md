@@ -4,7 +4,7 @@ I will curate a list of good educational resources and include code samples as I
 
 ## What is Java?
 
-Java is an object oriented programming language that runs exlcusively on the Java Virtual Machine (JVM). The JVM can be installed on most any device and you will need to install the Java Development Kit (JDK) in order to get started. (Here is the link to install JDK 1.8)[http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html]. Be careful not to install any extra toolbars or McAfee nonsense.
+Java is an object oriented programming language that runs exlcusively on the Java Virtual Machine (JVM). The JVM can be installed on most any device and you will need to install the Java Development Kit (JDK) in order to get started. [Here is the link to install JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html). Be careful not to install any extra toolbars or McAfee nonsense.
 
 **Stick to Java 8 if possible**
 
@@ -32,17 +32,17 @@ If you're coming to Java for the first time then an IDE might be new to you. An 
  
 There are three main IDEs to which I am familiar.
 
-1. Intellij
+* Intellij
 
-This has become the standard IDE since the fall of Eclipse. It does cost money but there is free version that should do for most personal projects. (Here is a setup tutorial)[https://examples.javacodegeeks.com/desktop-java/ide/intellij-idea-tutorial-beginners/].
+This has become the standard IDE since the fall of Eclipse. It does cost money but there is free version that should do for most personal projects. [Here is a setup tutorial](https://examples.javacodegeeks.com/desktop-java/ide/intellij-idea-tutorial-beginners/).
 
-2. Eclipse
+* Eclipse
 
-Still a very popular IDE but it's in decline. Every version seems to get worse. It will probably be fine for the 30 day challenge but you may problems as your projects become more advanced. (Here is a setup tutorial)[https://www.tutorialspoint.com/eclipse/eclipse_installation.htm]. Let me know if you have trouble with that tutorial. Eclipse is notorious for having outdated and nonsense tutorials for every feature and addon.
+Still a very popular IDE but it's in decline. Every version seems to get worse. It will probably be fine for the 30 day challenge but you may problems as your projects become more advanced. [Here is a setup tutorial](https://www.tutorialspoint.com/eclipse/eclipse_installation.htm). Let me know if you have trouble with that tutorial. Eclipse is notorious for having outdated and nonsense tutorials for every feature and addon.
 
-3. Netbeans
+* Netbeans
 
-This IDE has been neglected for a long time. (Recently Apache adopted it into it's community)[https://wiki.apache.org/incubator/NetBeansProposal]. So it may improve in the near future. Not recommended for this challenge.
+This IDE has been neglected for a long time. [Recently Apache adopted it into it's community](https://wiki.apache.org/incubator/NetBeansProposal). So it may improve in the near future. Not recommended for this challenge.
 
 If none of the above interest you then don't be afraid to stick to your trusty text editor + terminal. It should be fine for the purposes of this challenge.
 
